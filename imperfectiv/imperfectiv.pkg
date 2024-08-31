@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'imperfectiv': Estimation (estimate) of bounds with "Imperfect Instrumental Variables" (Nevo and Rosen, 2012) Use imperfectiv With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f imperfectiv.ado
+f imperfectiv.hlp
