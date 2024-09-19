@@ -1,6 +1,8 @@
 # imperfectiv
 Estimation (estimate) of bounds with "Imperfect Instrumental Variables" (Nevo and Rosen, 2012) Use imperfectiv With STATA 18
 
+https://www.youtube.com/watch?v=edp-_M_iBUs
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
